@@ -37,6 +37,5 @@ for el in product_count:
     product_list.append((el + 1, product_dict))
 
 print(product_list)
-# Еще не доделал
-el_1, el_2 = product_list[0]
-print(el_2)
+product_dict_list = {k: set([v[1][k] for v in product_list]) for k in product_list[0][1].keys()}
+print(product_dict_list)
