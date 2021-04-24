@@ -28,7 +28,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.less_2_5">
+  <component name="RunManager" selected="Python.less_2_3">
     <configuration name="less_2_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="repo-lessons" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,9 +136,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.less_2_3" />
         <item itemvalue="Python.less_2_5" />
         <item itemvalue="Python.less_2_4" />
-        <item itemvalue="Python.less_2_3" />
         <item itemvalue="Python.less_2_2" />
         <item itemvalue="Python.less_2_1" />
       </list>
