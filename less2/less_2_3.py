@@ -18,5 +18,4 @@ elif month_num in month_list[2]:
 else:
     print('Зима')
 
-# print(month_dict.get(month_dict.keys()))
 print(month_dict.get(month_num))
