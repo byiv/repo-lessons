@@ -8,3 +8,12 @@
 # При достижении числа 10 — завершаем цикл.
 # Вторым пунктом необходимо предусмотреть условие,
 # при котором повторение элементов списка прекратится.
+
+from itertools import count
+from sys import argv
+
+for el in count(int(argv[1])):
+    if el > 10:
+        break
+    else:
+        print(el)
